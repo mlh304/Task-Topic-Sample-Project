@@ -1,113 +1,124 @@
 # Withdrawing Cash from the ATM
 An Automatic Teller Machine (ATM) is an electronic device that helps to perform a secured financial transaction without the help of human interaction. 
-## Benefits of the ATM
-Through the ATM, you can get the list of benefits.
-1. Balance enquiry
-2.	Withdraw/deposit money
-3.	Utility/bill payment
-4.	Print mini statement
-5.	Change PIN
 
-This topic helps you to know how to withdraw cash from an ATM.
+There are three types of options to withdraw cash from the ATM.
+1. Card 
+2. UPI
+3. Cardless
+
+This topic helps to know how to withdraw cash from an ATM using different options.
+
 ## Withdrawing cash using card
-Cards are acceptable in all the ATMs to receive money.  Also, it has a larger transaction limit.
+Cards are acceptable in all the ATMs to withdraw cash.  Globally you can use cards to get instant cash.
 
 **Prerequisites**
 
-You need one of the following modes along with Active bank account and PIN/OTP to access the ATM:
+You need one of the following modes along with active bank account and PIN/OTP to access the ATM:
+<div align= "left">
+
 - Debit card
 - Credit card
 - Prepaid card
 
 To withdraw cash using card,
 
-![alt text](<ATM card.png>)
+<div align= "center">
+<img src="ATM card.png" alt="card" width= "300" height="300">
 
 1. On the top right-side pane, insert your debit/credit card in the card reader.
 2. From the displayed options, choose your preferred language and select **Confirm.**
-    
+
     **Note:** Instructions on the next screens appear in the selected language.
-
-3. On the keyboard, type your **PIN** and press **Confirm**.
+3. After confirmation, the screen will display the option to enter your PIN 
+4. On the keypad, type your **PIN** and press **Confirm**.
     
-    **Info:** Approach your home branch when you receive an incorrect PIN multiple times.
+    **Note:** Approach your home branch if you get an incorrect PIN message multiple times.
 
-4. On the screen, select **Cash Withdraw** and perform the following steps:
+5. On the screen, select **Cash Withdraw** and perform the following steps:
    
     a. On the screen, select your **Type of Account**.
     
-    b.	On the keyboard, enter the **Amount** and enter **Confirm**.
+    b.	On the keypad, enter the **Required Amount** and enter **Confirm**.
     
     c.	From the cash dispenser, collect your cash.
 
-    **Info:** Contact the nearby branch if you did not receive the money. but the amount is deducted from your account.
+    **Note:** Contact the nearby branch if you did not receive the money, but the amount is deducted from your account.
     
-    d. On the screen, select **Continue** if you need another transaction or select Cancel.
-5. From the receipt printer, collect the transaction slip.
-6. From the card reader, remove your ATM card.
+    d. On the screen, select **Continue** if you need another transaction or select **Cancel**.
+6. From the receipt printer, collect the transaction slip.
+7. From the card reader, remove your ATM card.
 
 The transaction is completed.
+
+<div align= "left">
 
 ## Withdrawing cash using UPI
 
 You can use the Unified Payments Interface (UPI) ATM transaction to choose the choice of your account to withdraw the cash. 
 
 **Prerequisites**
+<div align= "left">
+  
 - Active bank account linked with UPI facility.
 - Active mobile number linked with account and UPI.
 - Internet facility
 
 To withdraw cash using UPI,
 
-![alt text](<ATM QR.jpg>)
+<div align= "center">
+<img src="ATM QR.jpg" alt="cardqr" width= "300" height="300"> 
+
+
 1. From the displayed options, choose your preferred language and select **Confirm**.
     
-    **Info:** Instructions on the next screens appear in the selected language.
+    **Note:** Instructions on the next screens appear in the selected language.
 2. On the screen, select the **Cash Withdraw** and perform the following steps:
     
     a. Select cardless transaction followed by select UPI transactions.
     
-    b. On the screen, enter the amount and select **Confirm**.
+    b. On the screen, enter the **Required Amount** and select **Confirm**.
     
     c. On the screen, you can get the single-use dynamic QR code.
-3. On your mobile device, open the active UPI app and scan the QR code.
+3. On your mobile device, open the UPI app and scan **QR code.**
 
-4. Enter the PIN and select **Confirm**. 
+4. Enter the **UPI PIN** in your mobile app and select **Confirm**. 
 
 5. From the cash dispenser, collect your cash.
     
-    **Info:** Contact the nearby branch if you did not receive the money. but the amount is deducted from your account.
+    **Note:** Contact the nearby branch if you did not receive the money, but the amount is deducted from your account.
 
 The UPI transaction is completed.
+
+<div align= "left">
 
 ## Withdrawing cash using cardless ATM
 You can use a withdrawal code to perform a cardless cash withdrawal.
 
 **Prerequisites**
+<div align= "left">
+
 - Active bank account
 - Active cardless ATM facility
 - Internet facility
 
 To withdraw cash using a cardless ATM,
 
-![alt text](<cardless ATM.jpg>)
+<div align= "center">
+<img src= "cardless ATM.jpg" alt="cardless" width= 300 height= 300>
 
-1. From the displayed options, choose your preferred language and select Confirm.
 
-    **Info**: Instructions on the next screens appear in the selected language.
+1. From the displayed options, choose your preferred language and select **Confirm.**
+
+    **Note**: Instructions on the next screens appear in the selected language.
 2. On the screen, select the **Cash Withdraw** and perform the following steps:
     
     a. Select cardless transaction followed by select cardless ATM transactions.
     
-    b. On the dialog box, enter your **Mobile Number** that is linked in your bank account..
+    b. On the screen, enter your **Mobile Number** that is linked to your bank account and Select **Confirm.**
     
-    c. Select **Confirm**.
-    
-    d. On the dialog box, enter the **Withdrawal Code** that you have received in your mobile bank app for the desired amount.
-    
-    e. Select **Confirm.**
+    c. On the screen, enter the **Withdrawal Code** that you have received in your mobile banking app for the desired amount and Select **Confirm.**
 3. On the cash dispenser, collect your cash.
  
-    **Info**: Contact the nearby branch if you did not receive the money. but the amount is deducted from your account.
+    **Note**: Contact the nearby branch if you did not receive the money, but the amount is deducted from your account.
 
 The cardless ATM transaction is completed.
