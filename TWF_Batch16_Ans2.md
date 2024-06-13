@@ -8,13 +8,13 @@ There are three types of options to withdraw cash from the ATM.
 
 This topic helps to know how to withdraw cash from an ATM using different options.
 
+
 ## Withdrawing cash using card
 Cards are acceptable in all the ATMs to withdraw cash.  Globally you can use cards to get instant cash.
 
 **Prerequisites**
 
 You need one of the following modes along with active bank account and PIN/OTP to access the ATM:
-<div align= "left">
 
 - Debit card
 - Credit card
@@ -22,14 +22,14 @@ You need one of the following modes along with active bank account and PIN/OTP t
 
 To withdraw cash using card,
 
-<div align= "center">
-<img src="ATM card.png" alt="card" width= "300" height="300">
+
+<img src="ATM card.png" alt="card" width= "350" height="300">
 
 1. On the top right-side pane, insert your debit/credit card in the card reader.
 2. From the displayed options, choose your preferred language and select **Confirm.**
 
     **Note:** Instructions on the next screens appear in the selected language.
-3. After confirmation, the screen will display the option to enter your PIN 
+3. After confirmation, the screen displays the option to enter your PIN 
 4. On the keypad, type your **PIN** and press **Confirm**.
     
     **Note:** Approach your home branch if you get an incorrect PIN message multiple times.
@@ -50,14 +50,13 @@ To withdraw cash using card,
 
 The transaction is completed.
 
-<div align= "left">
 
 ## Withdrawing cash using UPI
 
 You can use the Unified Payments Interface (UPI) ATM transaction to choose the choice of your account to withdraw the cash. 
 
 **Prerequisites**
-<div align= "left">
+
   
 - Active bank account linked with UPI facility.
 - Active mobile number linked with account and UPI.
@@ -65,8 +64,8 @@ You can use the Unified Payments Interface (UPI) ATM transaction to choose the c
 
 To withdraw cash using UPI,
 
-<div align= "center">
-<img src="ATM QR.jpg" alt="cardqr" width= "300" height="300"> 
+
+<img src="ATM QR.jpg" alt="cardqr" width= "350" height="300"> 
 
 
 1. From the displayed options, choose your preferred language and select **Confirm**.
@@ -95,7 +94,6 @@ The UPI transaction is completed.
 You can use a withdrawal code to perform a cardless cash withdrawal.
 
 **Prerequisites**
-<div align= "left">
 
 - Active bank account
 - Active cardless ATM facility
@@ -103,9 +101,8 @@ You can use a withdrawal code to perform a cardless cash withdrawal.
 
 To withdraw cash using a cardless ATM,
 
-<div align= "center">
-<img src= "cardless ATM.jpg" alt="cardless" width= 300 height= 300>
 
+<img src="cardless ATM.jpg" alt="cardqr" width= "350" height="300">
 
 1. From the displayed options, choose your preferred language and select **Confirm.**
 
