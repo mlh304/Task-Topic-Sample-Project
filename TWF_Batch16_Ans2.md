@@ -2,7 +2,7 @@
 An Automatic Teller Machine (ATM) is an electronic device that helps to perform a secured financial transaction without the help of human interaction. 
 
 There are three types of options to withdraw cash from the ATM.
-1. Card 
+1. Cards 
 2. UPI
 3. Cardless
 
